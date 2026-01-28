@@ -1,18 +1,17 @@
 # Kristina Kawasaki | Product Marketing Manager
 
-I am a "field-first" Product Marketer specializing in high-growth SaaS platforms and Employee Benefits. I focus on translating complex technical roadmaps into high-impact narratives that drive revenue.
+I am a "field-first" Product Marketing Manager. I specialize in scaling content libraries, launching technical platforms, and building the sales enablement tools required to win complex, multi-stakeholder deals.
 
-## 🚀 The "Impact" Stats
-* **Library Growth:** Scaled the customer success library by **80%** to fuel mid-to-late stage pipeline.
-* **GTM Leadership:** Led the launch of **Nava HQ**, achieving a **93% conversion rate** for reference-based prospects.
-* **Revenue Driven:** Ranked #1 ADR West Coast with **166% average quota attainment**.
+## 🚀 Impact by the Numbers
+* **166% Average Quota Attainment:** Ranked #1 as ADR, demonstrating a high-velocity approach to market growth.
+* **80% Library Expansion:** Scaled the customer success library by 80% growth to support mid-market and large-group sales cycles.
+* **93% Conversion Rate:** Supported the GTM launch of Nava HQ by leveraging strategic customer references and ROI-focused narratives.
 
-## 📂 Portfolio of Work
-* **[Master Case Study Library](./Customer_Stories.md)** - 9+ stories ranging from Agriculture to Tech.
-* **[GTM & Sales Methodology](./Methodology.md)** - How I build battlecards and pitch decks (Strategy only).
-* **[Technical One-Pagers](./About_Nava.pdf)** - Examples of design and technical copywriting.
+## 📂 Portfolio
+* **[Customer Success & ROI Library](./Customer_Stories.md)** - deep-dives into financial and operational impact.
+* **[GTM & Sales Enablement Methodology](./Methodology.md)** - My framework for battlecards, pitch decks, and internal win-loss analysis.
+* **[Technical One-Pagers](./About_Nava.pdf)** - Visual and copy examples of product positioning.
 
-## 🛠 Tech & AI Stack
-* **Marketing:** HubSpot, Google Analytics, Zapier, Canva.
-* **Sales:** Salesforce, Gong, Outreach, Salesloft.
-* **AI & Dev:** GitHub (Markdown), API Documentation, LLM Prompting for Content.
+## 🛠 Tech Stack
+* **GTM:** HubSpot, Salesforce, Gong, Outreach, Salesloft, Google Analytics.
+* **Creative & Dev:** Canva, Zapier, GitHub.
